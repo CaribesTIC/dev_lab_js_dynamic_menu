@@ -1,3 +1,9 @@
+ /*   
+  *   - Developed by: Ernesto Canquiz
+  *   - fdsoil123@gmail.com
+  *   - @fdso123 
+  */
+
 const Menu = (function() {
     let children = [], jsons = [], uls = [], lis = [];
     const Do = (function() {
